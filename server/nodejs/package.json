@@ -7,7 +7,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "GPL",
   "description": "",
   "dependencies": {
     "body-parser": "^1.20.3",
